@@ -1,6 +1,6 @@
 # Kira SHELL 
 
-CBIT Shell is a custom-built command-line interpreter designed to execute shell commands efficiently. This project provides a basic implementation of a shell, supporting common operations, user-defined commands, and basic scripting. The shell is built to be lightweight and adaptable, providing a simple interface for executing commands and scripts on Linux/Unix-based systems.
+Kira Shell is a custom-built command-line interpreter designed to execute shell commands efficiently. This project provides a basic implementation of a shell, supporting common operations, user-defined commands, and basic scripting. The shell is built to be lightweight and adaptable, providing a simple interface for executing commands and scripts on Linux/Unix-based systems.
 
 ## Features
 
