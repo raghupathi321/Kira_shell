@@ -14,7 +14,7 @@ Kira Shell is a custom-built command-line interpreter designed to execute shell 
 
 ## Prerequisites
 
-To run CBIT Shell, you'll need:
+To run Kira Shell, you'll need:
 
 - **Operating System**: Linux/Unix
 - **Compiler**: GCC (GNU Compiler Collection)
@@ -24,12 +24,12 @@ To run CBIT Shell, you'll need:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/cbit-shell.git
+    git clone https://github.com/username/Kira-shell.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd cbit-shell
+    cd  Kira-shell
     ```
 
 3. Compile the source code:
@@ -39,7 +39,7 @@ To run CBIT Shell, you'll need:
 
 4. Run the shell:
     ```bash
-    ./cbit_shell
+    ./Kira_shell
     ```
 
 ## Usage
@@ -49,6 +49,6 @@ To run CBIT Shell, you'll need:
 You can execute any shell command as follows:
 
 ```bash
-$cbit ls
-$cbit pwd
-$cbit cd /path/to/directory
+$Kira ls
+$Kira pwd
+$Kira cd /path/to/directory
